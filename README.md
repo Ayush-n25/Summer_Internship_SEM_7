@@ -1,5 +1,5 @@
 # Summer_Internship_2024
-I am Working an Cloud Intern at ScaleCapacity starting from 30th May.
+I am Working as Cloud Intern at ScaleCapacity starting from 30th May.
 
 ### Week-1
 - Team introduction and induction.
