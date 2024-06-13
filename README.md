@@ -6,4 +6,4 @@ I am Working an Cloud Intern at ScaleCapacity starting from 30th May.
 - I was given some articles to explore on AWS Sagemaker and IoT greengrass.
 - Explored the articles and did some basic rearch on object-detection and SSD.
 - Find a dataset for ObjectDetection.
-###Week-2
+### Week-2
