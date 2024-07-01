@@ -1,5 +1,7 @@
 # Summer_Internship_SEM_7
-I am Working as Cloud Intern at ScaleCapacity starting from 30th May.
+I am Working as Cloud Intern at ScaleCapacity starting from 30th May.I am working on the object-detection using sagemaker and IoT greengrass.
+
+[Link of dataset](https://www.kaggle.com/datasets/truongthanh081203/license-plate)
 
 ### Week-1
 - Team introduction and induction.
