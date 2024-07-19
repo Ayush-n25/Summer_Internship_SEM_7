@@ -13,14 +13,16 @@ I am Working as Cloud Intern at ScaleCapacity starting from 30th May.I am workin
 - Setup the notebook with the required dependencies and libraries.
 - Uploaded the dataset and into default s3 of sagemaker and downloaded the dataset into jupyter notebook
 ### Week-3
-* Find correct format for converting labels from YOLO to SSD format.
-* Convert the Labels into a format Accepted by SSD.
-* Save the dataset to default s3 of sagemaker.
-* Generate list files from dataset.
-* Prepare RecordIO files from list files.
+- Find correct format for converting labels from YOLO to SSD format.
+- Convert the Labels into a format Accepted by SSD.
+- Save the dataset to default s3 of sagemaker.
+- Generate list files from dataset.
+- Prepare RecordIO files from list files.
 ### Week-4
-* Find how to do hyperparameter-tuning job in sagemaker.
-* Find which parameters are tunable for SSD and which must are mandatory to mention before starting Hyperparameter tuning job.
-* Troubleshoot the Hyperparameter training job.
-* Do the training job.
-* Create a model group and register the the trained model
+- Find how to do hyperparameter-tuning job in sagemaker.
+- Find which parameters are tunable for SSD and which must are mandatory to mention before starting Hyperparameter tuning job.
+- Troubleshoot the Hyperparameter training job.
+- Do the training job.
+- Create a model group and register the the trained model
+## Refrence
+- https://docs.aws.amazon.com/sagemaker/latest/dg/object-detection.html 
